@@ -1,7 +1,13 @@
-<h3 align="center">Machine Learning </h3>
+<h3 align="center">Machine Learning</h3>
 <p align="center">
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/1saory/learning_github/blob/main/github_image/tensorflow.png" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/1saory/learning_github/blob/main/github_image/tensorflow.png" width="36" height="36" alt="TensorFlow" />
+</a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/1saory/learning_github/blob/main/github_image/python.png" width="36" height="36" alt="Python" />
+</a>
 </p>
+
 
 <h3 align="center">Mobile Development </h3>
 <p align="center">
