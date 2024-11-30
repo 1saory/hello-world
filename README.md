@@ -1,6 +1,6 @@
 <h3 align="center">Machine Learning </h3>
 <p align="center">
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://github.com/1saory/learning_github/blob/main/github_image/tensorflow.png" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
 <h3 align="center">Mobile Development </h3>
